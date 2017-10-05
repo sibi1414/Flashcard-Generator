@@ -1,0 +1,22 @@
+[
+	{
+		"text": "People 'bob' for apples on Halloween.",
+		"cloze": "apples"
+	},
+	{
+		"text": "Pumpkins can be orange, white, green, or blue in color.",
+		"cloze": "blue"
+	},
+	{
+		"text": "Every Halloween, Charlie Brown helps his friend Linus wait for The Great Pumpkin to appear.",
+		"cloze": "Pumpkin"
+	},
+	{
+		"text": "Mary Shelley wrote the novel Frankenstein.",
+		"cloze": "Shelley"
+	},
+	{
+		"text": "Halloween is the day before All Saints Day.",
+		"cloze": "Halloween"
+	}
+]
